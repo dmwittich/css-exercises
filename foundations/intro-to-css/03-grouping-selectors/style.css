@@ -1,0 +1,12 @@
+.knight,
+.knave{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.knight{
+    background-color: black;
+    color: white;
+}
+.knave{
+    background-color: yellow;
+}
